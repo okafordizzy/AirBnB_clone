@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Isaac Baccah** <[isaacbaccah](https://github.com/isaacbaccah)>
-* **KEYRADIN WARIYO** <[keyradin](https://github.com/keyradinwariyo)>
+* **Osigwe Miracle** <[miracle-a-osigwe](https://github.com/miracle-a-osigwe)>
+* **Okafor Chiedozie** <[okafordizzy](https://github.com/okafordizzy)>
